@@ -1,10 +1,55 @@
+.body{
+    width: 1440px;
+    margin: 0 auto;
+}
+.logo{
+    width: 64px;
+    height: 64px;
+    padding-left: 96px;
+    padding-top: 51px;
+}
 .menu{
-height: 64;
-width: 1250;
+    display: inline-flex;
+    height: 64px;
+    width: 1440px;
 }
 .menu_list{
-
+    list-style: none;
+    margin-left: 101px;
+    margin-right: 465px;
+    margin-top: 66px;
+    padding: 0px;
+    width: 590px;
+    height: 33px;
 }
 .menu_btn{
-
+    display: inline;
+    margin-left: 54px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+}
+#home{
+    margin-left: 0;
+}
+.top_btn{
+    text-decoration: none;
+    color: #000000
+}
+.top_btn:hover{
+    border-bottom: 2px solid #385804;
+    padding-bottom: 5px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+}
+.burger{
+    width: 38px;
+    height: 11px;
+    padding-right: 95px;
+    padding-top: 82px;
 }

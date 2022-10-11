@@ -132,12 +132,31 @@ background: rgba(56, 88, 4, 0.08);
     line-height: 42px;
     color: #26313B;
 }
-.list_block2{
+.list{
+    list-style-type:none;
+}
+.put{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background: #385804;
+    margin-top: 67px;
+}
+.put_text{
+    width: 494px;
+    height: 109px;
+    margin-left: 44px;
+    margin-top: 50px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
     line-height: 36px;
     color: #26313B;
-    list-style-image:url(Ellipse2.svg);
+}
+.put_text p{
+    margin-top: 0px;
+}
+.item_put{
+    display: inline-flex;
 }

@@ -99,6 +99,7 @@
 }
 
 .btn1 {
+    border: none;
     width: 307px;
     height: 78px;
     margin-top: 43px;
@@ -181,4 +182,58 @@
 
 .item_put {
     display: inline-flex;
+}
+.gren_box{
+    display: inline-flex;
+    width: 1248px;
+height: 565px;
+margin-top: 149px;
+margin-left: 96px;
+background: #385804;
+}
+.img_bloc3{
+    width: 483px;
+height: 497px;
+margin-top: 34px;
+margin-left: 34px;
+background: #FB6542;
+}
+.name3{
+    width: 605px;
+height: 192px;
+margin-left: 71px;
+margin-top: 51px;
+margin-bottom: 0px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 96px;
+color: #FFFFFF;
+}
+.text3{
+    width: 494px;
+height: 113px;
+margin-top: 12px;
+margin-left: 71px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+color: #FFFFFF
+}
+.btn3{
+    width: 241px;
+height: 63px;
+margin-top: 73px;
+margin-left: 71px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 33px;
+color: #385804;
 }
